@@ -1,0 +1,6 @@
+domready(function() {
+
+  common.hello();
+
+});
+
